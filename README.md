@@ -17,7 +17,7 @@ Using the np.linalg.solve(), we can find the solutions.
 ### Step 4: 
 End the program
 ## Program:
-~~
+~~~
 import os
 os.environ["OPENBLAS_NUM_THREADS"]="1"
 import numpy as np
@@ -25,11 +25,9 @@ matrix=np.array([[5,-3,-10],[2,2,-3],[-3,-1,5]])
 const=np.array([-9,4,-1])
 result=np.linalg.solve(matrix,const)
 print(result)
-~~
+~~~
 
 ## Output:
-<img width="1316" height="309" alt="image" src="https://github.com/user-attachments/assets/eb986c21-0fa5-4f86-a385-7e0fdb8063d4" />
-
 
 ## Result: 
 Thus the solutions for the linear equations are successfully solved using python program
