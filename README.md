@@ -28,6 +28,8 @@ print(result)
 ~~~
 
 ## Output:
+<img width="1298" height="768" alt="image" src="https://github.com/user-attachments/assets/f2839a37-9771-4ada-a4e1-a4887cd9de85" />
+
 
 ## Result: 
 Thus the solutions for the linear equations are successfully solved using python program
